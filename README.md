@@ -1,0 +1,1 @@
+# HRL-s-Plugin-For-DaVinci-Resolve-21
